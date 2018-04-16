@@ -9,10 +9,17 @@ more tree rotations.
 AVL Tree Menu Options
 ---------------------
 1.Create a Tree
+
 2.Insert Node into the tree
+
 3.Delete Node from the existing tree
+
 4.Search a Node in the tree
+
 5.Delete entire tree
+
 6.Traversal- Preorder, Postorder and Inorder
+
 7.Check Balance of the tree
+
 8.Exit
